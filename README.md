@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajveer Srivastava</h1>
-<h3 align="center">A passionate frontend dFull Stack Developer | Creating Dynamic Web and Android Applicationseveloper from India</h3>
+<h3 align="center">A passionate Full Stack Developer | Creating Dynamic Web and Android Applications</h3>
 
 - 📫 How to reach me **irajveersrivastava@gmail.com**
 
