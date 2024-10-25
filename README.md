@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajveer Srivastava</h1>
 <h3 align="center">A passionate Full Stack Developer | Creating Dynamic Web and Android Applications</h3>
 
-- 📫 How to reach me **irajveersrivastava@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
